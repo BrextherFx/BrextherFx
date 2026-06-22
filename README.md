@@ -23,7 +23,7 @@ _start:
 
 ```lua
        OS  :  Windows 11, macOS, ubuntu
-Languages  :  HTML, JavaScript, Pythan,
+Languages  :  .LUA, TypeScript, JavaScript, Pythan,
    Editor  :  VS Code, Codex, Cursor
     Motto  :  Seek strength. The rest will follow.
 ```
